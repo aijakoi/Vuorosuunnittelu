@@ -1,0 +1,35 @@
+.vuorolista{
+   margin: 1em;
+}
+.vuorolista__datepicker{
+    display: flex;
+    align-items: center;
+}
+.vuorolista__datepicker_hae{
+    color: #154667;
+    margin-top: 1.2em;
+    margin-right: 1em;
+}
+.vuorolista__datepicker__raportti{
+    margin-top: 1.2em;
+}
+.header{
+    background-color: #bfe6f7;
+}
+
+.vuorolista__datagrids {
+    display: flex; 
+    padding-right: 1em;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+.vuorolista__datagrids__workers{
+    background-color: white;
+    margin-right: 1em;
+    width: 38em;
+}
+.vuorolista__datagrids__shifts{
+    background-color: white;
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+.kiinnitys_datagrids {
+  display: flex;
+}
+
+.datagrids__row1,
+.datagrids__row2 {
+  margin: 10px;
+}
+.datagrids__row2 {
+  width: 100%;
+}
+.attachment {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.datagrids {
+  background-color: white;
+}
+
+.shiftReport {
+  align-self: flex-end;
+  margin-left: auto;
+
+}

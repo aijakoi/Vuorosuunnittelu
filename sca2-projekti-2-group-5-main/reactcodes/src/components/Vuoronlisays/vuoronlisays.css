@@ -1,0 +1,13 @@
+.datagrids {
+    display: flex;
+  }
+
+.shiftAdding {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.report {
+  text-align: end;
+}
+  

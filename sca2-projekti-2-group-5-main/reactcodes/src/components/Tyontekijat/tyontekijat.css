@@ -1,0 +1,35 @@
+body {
+    background-color: #EBF5FB ;
+}
+.add {
+    background-color: #FBFCFC;
+    padding-left: 0.9em;
+    padding-right: 0.9em;
+}
+.edit {
+    background-color: #FBFCFC;
+}
+.table {
+    border: 1px solid black;
+}
+
+.table th {
+    border: 1px solid black;
+    background-color: #bfe6f7;
+}
+.table td {
+    border: 1px solid black;
+    background-color: #FBFCFC;
+    text-align: center;
+}
+
+header {
+    background-color: #bfe6f7;
+}
+.tablediv{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.addButtons{
+  margin-top: 1em;
+}
