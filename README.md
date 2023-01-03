@@ -1,2 +1,2 @@
-# sca2-projekti-2-group-5-main
+Savonia Code Academyn Projekti 2. Työvuorosuunnittelun sovellus toteutettu kahden muun opiskelijan kanssa.
  
